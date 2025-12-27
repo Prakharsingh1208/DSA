@@ -7,6 +7,7 @@ public class Stacks {
         s.push("Second");
         s.push("jhcfke");
         s.pop();
+
         System.out.println(s.peek());
     }
 }
