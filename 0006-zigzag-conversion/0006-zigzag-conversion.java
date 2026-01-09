@@ -33,13 +33,15 @@ class Solution {
             }
         }
 
-        String result = "";
-        for(int i=0;i<row.size();i++){
-            for(int j=0;j<row.get(i).size();j++){
-                result = result+row.get(i).get(j);
+        StringBuilder result = new StringBuilder();  
+
+        for (int i = 0; i < row.size(); i++) {
+            for (int j = 0; j < row.get(i).size(); j++) {
+                result.append(row.get(i).get(j));   
             }
         }
-        return result;
+
+        return result.toString();
         
     }
 }
