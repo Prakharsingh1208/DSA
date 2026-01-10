@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Prakharsingh1208/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prakharsingh1208/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Prakharsingh1208/DSA/tree/master/0016-3sum-closest) |
+| [0704-binary-search](https://github.com/Prakharsingh1208/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Prakharsingh1208/DSA/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Prakharsingh1208/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
