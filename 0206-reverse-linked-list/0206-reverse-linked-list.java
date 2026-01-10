@@ -9,28 +9,19 @@
  * }
  */
 class Solution {
-    
+    //Input: head = [1,2,3,4,5]
+    //Output: [5,4,3,2,1]
+
     public ListNode reverseList(ListNode head) {
-        if (head == null) return null;
-
-        Stack<ListNode> list = new Stack<>();
-
-        while(head!=null){
-            list.push(head);
-            head = head.next;
+        ListNode prev=null;
+        ListNode curr=head;
+        while(curr!=null){
+            ListNode  temp=curr.next;    
+            curr.next=prev;              
+            prev = curr;            
+            curr=temp;                   
         }
-        
-        ListNode headElement = list.pop();
-        ListNode curr = headElement;
+        return prev;
 
-
-        while(!list.isEmpty()){
-            curr.next = list.pop();
-            curr= curr.next;
-        }
-        
-        curr.next = null;
-
-        return headElement;
     }
 }
