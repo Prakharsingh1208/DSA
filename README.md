@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Prakharsingh1208/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Prakharsingh1208/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Prakharsingh1208/DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Prakharsingh1208/DSA/tree/master/0509-fibonacci-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Prakharsingh1208/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Prakharsingh1208/DSA/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
