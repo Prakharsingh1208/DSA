@@ -1,21 +1,38 @@
 class Solution {
-    public List<String> letterCombinations(String digits) {
-        if (digits.isEmpty()) return Collections.emptyList();
 
-        String[] phone_map = {"abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
-        List<String> output = new ArrayList<>();
-        backtrack("", digits, phone_map, output);
-        return output;
+    public void helper(String combination, String digits,HashMap<String, String> map,List<String> output) {
+
+        if (digits.isEmpty()) {
+            output.add(combination);
+            return;
+        }
+
+        String letters = map.get(Character.toString(digits.charAt(0)));
+
+        for (char ch : letters.toCharArray()) {
+            helper(combination + ch,
+                   digits.substring(1),
+                   map,
+                   output);
+        }
     }
 
-    private void backtrack(String combination, String next_digits, String[] phone_map, List<String> output) {
-        if (next_digits.isEmpty()) {
-            output.add(combination);
-        } else {
-            String letters = phone_map[next_digits.charAt(0) - '2'];
-            for (char letter : letters.toCharArray()) {
-                backtrack(combination + letter, next_digits.substring(1), phone_map, output);
-            }
-        }
+    public List<String> letterCombinations(String digits) {
+
+        if (digits.isEmpty()) return new ArrayList<>();
+
+        HashMap<String, String> keyboard = new HashMap<>();
+        keyboard.put("2", "abc");
+        keyboard.put("3", "def");
+        keyboard.put("4", "ghi");
+        keyboard.put("5", "jkl");
+        keyboard.put("6", "mno");
+        keyboard.put("7", "pqrs");
+        keyboard.put("8", "tuv");
+        keyboard.put("9", "wxyz");
+
+        List<String> output = new ArrayList<>();
+        helper("", digits, keyboard, output);
+        return output;
     }
 }
