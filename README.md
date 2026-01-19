@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Prakharsingh1208/DSA/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Prakharsingh1208/DSA/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Prakharsingh1208/DSA/tree/master/0056-merge-intervals) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakharsingh1208/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Prakharsingh1208/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prakharsingh1208/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Prakharsingh1208/DSA/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakharsingh1208/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Prakharsingh1208/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
