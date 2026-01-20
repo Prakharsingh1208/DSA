@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Prakharsingh1208/DSA/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Prakharsingh1208/DSA/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakharsingh1208/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Prakharsingh1208/DSA/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Prakharsingh1208/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Prakharsingh1208/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Prakharsingh1208/DSA/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
