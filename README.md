@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Prakharsingh1208/DSA/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Prakharsingh1208/DSA/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/Prakharsingh1208/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Prakharsingh1208/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakharsingh1208/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Prakharsingh1208/DSA/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prakharsingh1208/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Prakharsingh1208/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Prakharsingh1208/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Prakharsingh1208/DSA/tree/master/0344-reverse-string) |
 ## Greedy
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Prakharsingh1208/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Prakharsingh1208/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Prakharsingh1208/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Prakharsingh1208/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## String
 |  |
