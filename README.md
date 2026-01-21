@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Prakharsingh1208/DSA/tree/master/0704-binary-search) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Prakharsingh1208/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prakharsingh1208/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Prakharsingh1208/DSA/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Prakharsingh1208/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Prakharsingh1208/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
