@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Prakharsingh1208/DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Prakharsingh1208/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Prakharsingh1208/DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Prakharsingh1208/DSA/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/Prakharsingh1208/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -94,9 +95,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prakharsingh1208/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0089-gray-code](https://github.com/Prakharsingh1208/DSA/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Prakharsingh1208/DSA/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
