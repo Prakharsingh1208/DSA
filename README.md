@@ -55,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Prakharsingh1208/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Prakharsingh1208/DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prakharsingh1208/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Prakharsingh1208/DSA/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Prakharsingh1208/DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prakharsingh1208/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Prakharsingh1208/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Prakharsingh1208/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Prakharsingh1208/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakharsingh1208/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prakharsingh1208/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Prakharsingh1208/DSA/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/Prakharsingh1208/DSA/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
