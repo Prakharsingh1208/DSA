@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Prakharsingh1208/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prakharsingh1208/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Prakharsingh1208/DSA/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/Prakharsingh1208/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Prakharsingh1208/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Prakharsingh1208/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prakharsingh1208/DSA/tree/master/0075-sort-colors) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prakharsingh1208/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Prakharsingh1208/DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Prakharsingh1208/DSA/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/Prakharsingh1208/DSA/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
