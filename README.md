@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Prakharsingh1208/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Prakharsingh1208/DSA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Prakharsingh1208/DSA/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Prakharsingh1208/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Prakharsingh1208/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prakharsingh1208/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Prakharsingh1208/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Prakharsingh1208/DSA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Prakharsingh1208/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakharsingh1208/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Prakharsingh1208/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -129,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakharsingh1208/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prakharsingh1208/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prakharsingh1208/DSA/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prakharsingh1208/DSA/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
