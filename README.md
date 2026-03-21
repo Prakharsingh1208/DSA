@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/Prakharsingh1208/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakharsingh1208/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Prakharsingh1208/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prakharsingh1208/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prakharsingh1208/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Prakharsingh1208/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Prakharsingh1208/DSA/tree/master/0096-unique-binary-search-trees) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Prakharsingh1208/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
