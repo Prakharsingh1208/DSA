@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Prakharsingh1208/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Prakharsingh1208/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakharsingh1208/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prakharsingh1208/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prakharsingh1208/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prakharsingh1208/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Prakharsingh1208/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prakharsingh1208/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prakharsingh1208/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Prakharsingh1208/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
