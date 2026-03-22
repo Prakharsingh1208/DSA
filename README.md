@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prakharsingh1208/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prakharsingh1208/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prakharsingh1208/DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prakharsingh1208/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Prakharsingh1208/DSA/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Prakharsingh1208/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prakharsingh1208/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Prakharsingh1208/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prakharsingh1208/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prakharsingh1208/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prakharsingh1208/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prakharsingh1208/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prakharsingh1208/DSA/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prakharsingh1208/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Prakharsingh1208/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Prakharsingh1208/DSA/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Prakharsingh1208/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
