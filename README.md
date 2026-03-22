@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prakharsingh1208/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Prakharsingh1208/DSA/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Prakharsingh1208/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Prakharsingh1208/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Prakharsingh1208/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Prakharsingh1208/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prakharsingh1208/DSA/tree/master/0075-sort-colors) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Prakharsingh1208/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Prakharsingh1208/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prakharsingh1208/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Prakharsingh1208/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prakharsingh1208/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prakharsingh1208/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Prakharsingh1208/DSA/tree/master/0169-majority-element) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Prakharsingh1208/DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prakharsingh1208/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Prakharsingh1208/DSA/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Prakharsingh1208/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Prakharsingh1208/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prakharsingh1208/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prakharsingh1208/DSA/tree/master/0344-reverse-string) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prakharsingh1208/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prakharsingh1208/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prakharsingh1208/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Prakharsingh1208/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Prakharsingh1208/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Prakharsingh1208/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Prakharsingh1208/DSA/tree/master/0242-valid-anagram) |
