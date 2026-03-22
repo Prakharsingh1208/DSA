@@ -1,25 +1,50 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+        // if(s.length()!=t.length()){
+        //     return false;
+        // }
+
+        // HashMap<Character,Integer> map1 = new HashMap<>();
+        // HashMap<Character,Integer> map2 = new HashMap<>();
+        // for(char i:s.toCharArray()){
+        //     map1.put(i,map1.getOrDefault(i,0)+1);
+        // }
+
+        // for(char i:t.toCharArray()){
+        //     map2.put(i,map2.getOrDefault(i,0)+1);
+        // }
+
+        // for(char i:map1.keySet()){
+        //     if(!map1.get(i).equals(map2.get(i))){
+        //         return false;
+        //     }
+        // }
+
+        // return true;
+
         if(s.length()!=t.length()){
             return false;
         }
 
-        HashMap<Character,Integer> map1 = new HashMap<>();
+        HashMap<Character,Integer> map1  = new HashMap<>();
         HashMap<Character,Integer> map2 = new HashMap<>();
-        for(char i:s.toCharArray()){
-            map1.put(i,map1.getOrDefault(i,0)+1);
+
+        for(char a: s.toCharArray()){
+            map1.put(a, map1.getOrDefault(a,0)+1);
         }
 
-        for(char i:t.toCharArray()){
-            map2.put(i,map2.getOrDefault(i,0)+1);
+        for(char b: t.toCharArray()){
+            map2.put(b, map2.getOrDefault(b,0)+1);
         }
 
-        for(char i:map1.keySet()){
-            if(!map1.get(i).equals(map2.get(i))){
+
+        for(char c:map1.keySet()){
+            if(!map1.get(c).equals(map2.get(c))){
                 return false;
             }
         }
 
         return true;
+
     }
 }
