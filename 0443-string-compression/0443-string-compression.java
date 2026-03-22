@@ -1,8 +1,8 @@
 class Solution {
     public int compress(char[] chars) {
 
-        int index = 0; // write pointer
-        int i = 0;     // read pointer
+        int index = 0;
+        int i = 0;   
 
         while (i < chars.length) {
             char currentChar = chars[i];
@@ -12,7 +12,7 @@ class Solution {
                 i++;
                 count++;
             }
-            
+
             chars[index++] = currentChar;
 
             if (count > 1) {
