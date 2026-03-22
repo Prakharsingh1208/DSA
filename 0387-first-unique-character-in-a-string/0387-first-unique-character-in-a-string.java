@@ -6,8 +6,8 @@ class Solution {
         }
 
         int count =0;
-        for(char a:s.toCharArray()){
-            if(map.get(a).equals(1)){
+        for(int i = 0;i<s.length();i++){
+            if(map.get(s.charAt(i)).equals(1)){
                 return count;
             }
             count++;
