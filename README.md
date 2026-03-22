@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prakharsingh1208/DSA/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Prakharsingh1208/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Prakharsingh1208/DSA/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakharsingh1208/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prakharsingh1208/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prakharsingh1208/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prakharsingh1208/DSA/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Prakharsingh1208/DSA/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
