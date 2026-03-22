@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Prakharsingh1208/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Prakharsingh1208/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prakharsingh1208/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Prakharsingh1208/DSA/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Prakharsingh1208/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Prakharsingh1208/DSA/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Prakharsingh1208/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Prakharsingh1208/DSA/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prakharsingh1208/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Prakharsingh1208/DSA/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/Prakharsingh1208/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prakharsingh1208/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prakharsingh1208/DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
